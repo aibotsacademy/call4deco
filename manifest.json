@@ -1,0 +1,4 @@
+{
+  "name": "http://stormybot.talktoai.co/",
+  "gcm_sender_id": "607272504881" // remove this if you are using the `ApplicationServerKey` in push initiaization
+}
