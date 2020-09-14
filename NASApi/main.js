@@ -4,7 +4,7 @@ window.onload = function () {
  // Selected day to show on the map
  let date = new Date()
  
- date.setDate(date.getDate() - 2)
+ date.setDate(date.getDate() - 5)
  
  // GIBS needs the day as a string parameter in the form of YYYY-MM-DD.
  // Date.toISOString returns YYYY-MM-DDTHH:MM:SSZ. Split at the 'T' and
@@ -19,7 +19,7 @@ window.onload = function () {
      projection: ol.proj.get('EPSG:4326'),
      extent: [-180, -90, 180, 90],
      center: [-80.87, 24.21],
-     zoom: 5,
+     zoom: 6,
      maxZoom: 8,
    }),
    target: 'map',
