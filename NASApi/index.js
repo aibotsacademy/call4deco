@@ -49,8 +49,8 @@ window.onload = function () {
  
  function createLayer() {
    const urlParams = new URLSearchParams(window.location.search)
-   const lat = urlParams.get('lat') ? parseInt(urlParams.get('lat')) : -193
-   const long = urlParams.get('long') ? parseInt(urlParams.get('long')) : 94
+   const lat = urlParams.get('lat') ? parseInt(urlParams.get('lat')) : -140
+   const long = urlParams.get('long') ? parseInt(urlParams.get('long')) : 72
  
    var source = new ol.source.WMTS({
      url:
