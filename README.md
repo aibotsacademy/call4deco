@@ -1,7 +1,6 @@
 # 🤖 Stormy Bot Documentation🌪 https://stormybot.talktoai.co/
 ## IBM Call for Code 2020
 ### Global Competition 
-###### Developers: Leandro C, Pablo C & Pablo V
 ###### ||Tech Stak: IBM Watson + IBM Push Notifications + NASA GIBS API ||
 ###### ||Data Sources: [NASA GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers) ||
 ###### ||Region: Latin America & Caribbean 🌎 ||Challenge: Climate Change ||
